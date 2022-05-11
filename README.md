@@ -2,7 +2,7 @@
 ## made using next.js, firebase (firestore and auth), chakra-ui
 
 ## Demo App
-
+[Deploy](https://shalom-mu.vercel.app)
 ## Built using
 
 #### Front-end Tech
